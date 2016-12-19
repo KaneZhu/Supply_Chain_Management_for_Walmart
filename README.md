@@ -14,7 +14,11 @@ This project contains the following part:
 
 Reference:
         http://spark.apache.org/docs/
+        
         https://d3js.org
+        
         http://www.nltk.org
-        https://http://scikit-learn.org/stable/tutorial/index.html
+        
+        http://scikit-learn.org/stable/tutorial/index.html
+        
         http://systemg.research.ibm.com/
